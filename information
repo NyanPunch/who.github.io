@@ -2,7 +2,8 @@
 
 int main(void)
 {
-  printf("NyanPumch Github");
+  printf("This is NyanPumch Github\n");
+  printf("Practing Github for use\n");
   
   return 0;
 }
