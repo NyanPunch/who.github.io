@@ -1,4 +1,4 @@
 # who.github.io
-this repository is practice for C, C++, Python\n
+this repository is practice for C, C++, Python
 
 # HASHTAG IS BOLD
