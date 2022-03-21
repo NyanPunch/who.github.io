@@ -1,4 +1,4 @@
 # who.github.io
-그냥 쓰면 글씨가 안나오는건가?
-  ㄴ 그냥 적을 시 강조없이
-# 해시태그를 붙이면 강조되어 표기
+this repository is practice for C, C++, Python\n
+
+# HASHTAG IS BOLD
